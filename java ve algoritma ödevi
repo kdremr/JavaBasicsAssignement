@@ -1,0 +1,20 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world JAVA DERSİ ÖĞRENİYORUM");
+  }
+}
+
+/*
+OTOMATTAN SU ALMA ALGORİTMASI
+1-Başla
+2-Cüzdanı al
+3-Cüzdandan banka kartını çıkar
+4-Su numarasına bak
+5-Su numarasını otomata gir
+6-Eğer kart temassızsa kartı okut ve 8,adıma git
+7-Kart temassız değilse kart şifresini gir
+8-Suya doğru yönel ve eğil
+9-Otomatın kapağını aç
+10-Suyu al
+11-Bitir
+  */
